@@ -1,0 +1,1 @@
+$filterRegex = "(ass|bitch|pussy|cunt|muff|dipshit|shit|motherfucker|fuck|cock|tit|boner|muff|butthole|vagina|penis|rape|retard|faggot|nigger|nigga|poof|cracker|WTF|FML|milf|MILF|fucker|arse|anal|anus|asshole|dick|beaner|gun|wet-back|wab|sodomy|masturbate|masturbation|skinny)"
